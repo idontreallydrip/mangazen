@@ -1,0 +1,15 @@
+{
+  "name": "MangaZen",
+  "short_name": "MangaZen",
+  "description": "Il tuo reader manga senza pubblicità",
+  "start_url": "/mangazen/index.html",
+  "scope": "/mangazen/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.svg", "sizes": "192x192", "type": "image/svg+xml" },
+    { "src": "icon-512.svg", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
